@@ -86,8 +86,11 @@ public class SwingImageDisplay extends JPanel implements ImageDisplay {
 
     private static final Map<String, Color> colors = Map.of(
             "red", Color.RED,
-            "green", Color.GREEN,
-            "blue", Color.BLUE
+            "orange", Color.ORANGE,
+            "blue", Color.BLUE,
+            "yellow", Color.YELLOW,
+            "cyan", Color.CYAN,
+            "pink", Color.PINK
     );
 
     private record Paint(String id, int offset) {

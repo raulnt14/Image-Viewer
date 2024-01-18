@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421fe613-4574-40ab-8e3a-8b42aec7d93b" name="Changes" comment="Mouse functions implemented">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/ImagePresenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/swing/ImageViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/swing/ImageViewer.java" afterDir="false" />
+    <list default="true" id="421fe613-4574-40ab-8e3a-8b42aec7d93b" name="Changes" comment="Image presentation class created">
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/mocks/MockImageLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/swing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/swing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/swing/SwingImageDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/imageviewer/swing/SwingImageDisplay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705602945451</updated>
-      <workItem from="1705602946473" duration="5078000" />
+      <workItem from="1705602946473" duration="5411000" />
     </task>
     <task id="LOCAL-00001" summary="Main class and initial swing visual component">
       <option name="closed" value="true" />
@@ -92,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705617342469</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Image presentation class created">
+      <option name="closed" value="true" />
+      <created>1705617822513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705617822513</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +111,7 @@
     <MESSAGE value="Main class and initial swing visual component" />
     <MESSAGE value="Image management interfaces implemented" />
     <MESSAGE value="Mouse functions implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mouse functions implemented" />
+    <MESSAGE value="Image presentation class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image presentation class created" />
   </component>
 </project>
